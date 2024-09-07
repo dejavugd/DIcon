@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <span style="color:green">Dejavu</span>.</h2>
+<h2 align="left">Hi 👋! My name is Dejavu.</h2>
 
 ###
 
