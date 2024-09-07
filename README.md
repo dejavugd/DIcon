@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <span style="color:'green'">Dejavu</span>.</h2>
+<h2 align="left">Hi 👋! My name is <span color="green">Dejavu</span>.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="200" src="https://github.com/dejavugd/DIcon/blob/master/src/Dejavu.ico"  />
+<img align="left" height="150" src="https://github.com/dejavugd/DIcon/blob/master/src/Dejavu.ico"  />
 
 ###
 
