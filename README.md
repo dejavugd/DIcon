@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <a href="youtube.com/@Dejavu_GD" target="_blank">
+  <a href="[www.youtube.com/@Dejavu_GD](https://www.youtube.com/@Dejavu_GD)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://t.me/+8iUxqsVu53IxYmJi" target="_blank">
