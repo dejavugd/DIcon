@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="135" src="https://github.com/dejavugd/DIcon/blob/master/src/Dejavu.ico"  />
+<img align="left" height="120" src="https://github.com/dejavugd/DIcon/blob/master/src/Dejavu.ico"  />
 
 ###
 
